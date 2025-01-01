@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+}
+
+img {
+    align-self: center;
+}
+
+h1 {
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
